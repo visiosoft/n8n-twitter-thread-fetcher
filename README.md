@@ -1,5 +1,3 @@
-# n8n-twitter-thread-fetcher
-Twitter (X) Thread Fetcher for n8n 🚀 The ultimate solution for Twitter thread extraction and Twitter automation! If you’re looking to automate Twitter (X) data extraction for research, content curation, social media archiving, or just want to save time, this n8n workflow template is for you.
 What Does This Template Do?
 Thread Detection: Instantly recognizes whether your Twitter link is a single tweet or a full thread.
 Tweet Extraction: Fetches the content of individual tweets or gathers every tweet in a thread, including all connected replies.
