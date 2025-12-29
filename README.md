@@ -11,9 +11,6 @@ If you’re looking to automate **Twitter (X) data extraction** for research, co
 
 ☕ Before diving into the workflow and unlocking powerful Twitter automation, grab yourself a coffee-and if you find this project helpful, consider buying me one too
 
-<a href="https://buymeacoffee.com/enescingoz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
---- 
 
 # What Does This Template Do?
 
